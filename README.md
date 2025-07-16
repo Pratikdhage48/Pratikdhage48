@@ -67,3 +67,12 @@
   </a>
 </p>
 
+---
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your.email@example.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" />
+</a>
+
