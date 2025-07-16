@@ -40,12 +40,18 @@
 
 ## 📊 What I Do
 
-✔ Data Cleaning & Preprocessing  
-✔ Exploratory Data Analysis (EDA)  
-✔ Data Visualization & Dashboards  
-✔ SQL Queries & Joins  
-✔ Automating Reports using Python  
-✔ Business Intelligence with Power BI
+<table>
+  <tr>
+    <td>✔ Data Cleaning & Preprocessing</td>
+    <td>✔ Exploratory Data Analysis (EDA)</td>
+    <td>✔ Data Visualization & Dashboards</td>
+  </tr>
+  <tr>
+    <td>✔ SQL Queries & Joins</td>
+    <td>✔ Automating Reports using Python</td>
+    <td>✔ Business Intelligence with Power BI</td>
+  </tr>
+</table>
 
 ---
 
