@@ -56,9 +56,8 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 [Email Me](mailto:your.email@example.com)  
-- 🌐 [Portfolio Website (Optional)](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-dhage-pd04052001)  
+- 📧 [Email Me](pratikdhage300@gmail.com)  
 
 ---
 
