@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40px"></h1>
+<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50px"></h1>
 
 
 <p align="center">
