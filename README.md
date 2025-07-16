@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi there, I'm Pratik Dhage 🛰️</h1>
+<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35px"></h1>
+
 
 <p align="center">
   <b>Data Analyst | SQL • Python • Power BI • Excel</b><br/>
@@ -8,6 +9,7 @@
 
 ---
 
+## 🧠 About Me
 
 🎓 I am a passionate Data Analyst with a strong foundation in extracting, transforming, analyzing, and visualizing data to solve real-world problems.
 
