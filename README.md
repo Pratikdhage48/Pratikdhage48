@@ -58,13 +58,14 @@
 
 ## 📬 Let's Connect
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pratik-dhage-pd04052001" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="pratikdhage300@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email Me" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
   </a>
 </p>
-
 
