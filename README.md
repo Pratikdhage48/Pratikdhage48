@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="35px"></h1>
+
+<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/3o6ZsYi4H1QXW8tG2w/giphy.gif" width="35px"></h1>
+
 
 <h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60px"></h1>
 
