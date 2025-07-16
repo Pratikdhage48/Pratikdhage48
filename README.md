@@ -58,13 +58,12 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-dhage-pd04052001)  
-- 📧 [Email Me](pratikdhage300@gmail.com)  
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/pratik-dhage-pd04052001" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="pratikdhage300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
 </p>
+
