@@ -42,18 +42,14 @@
 
 ## 📊 What I Do
 
-<table>
-  <tr>
-    <td>✔ Data Cleaning & Preprocessing</td>
-    <td>✔ Exploratory Data Analysis (EDA)</td>
-    <td>✔ Data Visualization & Dashboards</td>
-  </tr>
-  <tr>
-    <td>✔ SQL Queries & Joins</td>
-    <td>✔ Automating Reports using Python</td>
-    <td>✔ Business Intelligence with Power BI</td>
-  </tr>
-</table>
+<p align="center">
+  <b>✔ Data Cleaning & Preprocessing</b> &nbsp;&nbsp;&nbsp;
+  <b>✔ Exploratory Data Analysis (EDA)</b> &nbsp;&nbsp;&nbsp;
+  <b>✔ Data Visualization & Dashboards</b><br><br>
+  <b>✔ SQL Queries & Joins</b> &nbsp;&nbsp;&nbsp;
+  <b>✔ Automating Reports using Python</b> &nbsp;&nbsp;&nbsp;
+  <b>✔ Business Intelligence with Power BI</b>
+</p>
 
 
 ---
