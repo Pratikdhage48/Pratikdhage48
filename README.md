@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50px"></h1>
+<h1 align="center">Hi there, I'm Pratik Dhage <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60px"></h1>
 
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 💡 I focus on delivering impactful stories through dashboards, reports, and data-driven recommendations.
 
----
+
 
 ## 🚀 Tools & Technologies
 
@@ -38,7 +38,6 @@
 </p>
 
 
----
 
 ## 📊 What I Do
 
@@ -52,7 +51,6 @@
 </p>
 
 
----
 
 ## 📬 Let's Connect
 
