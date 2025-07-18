@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/color/96/mysql-logo.png" width="40" alt="MySQL"/>
   
   <!-- MS SQL Server (Reliable icon) -->
-  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="40" alt="MS SQL Server"/>
+  <img src="[https://img.icons8.com/color/96/microsoft-sql-server.png](https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg)" width="40" alt="MS SQL Server"/>
 
   <!-- Python -->
   <img src="https://img.icons8.com/color/96/python.png" width="40" alt="Python"/>
