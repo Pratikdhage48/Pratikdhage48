@@ -22,21 +22,35 @@
 ## 🚀 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/100/000000/sql.png" width="40px" alt="SQL"/>
-  <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" width="40px" alt="MySQL"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-microsoft-sql-server-a-relational-database-management-system-logo-color-tal-revivo.png" width="40px" alt="MS SQL Server"/>
-  <img src="https://img.icons8.com/color/100/000000/python--v1.png" width="40px" alt="Python"/>
-  <img src="https://img.icons8.com/color/100/000000/power-bi.png" width="40px" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/100/000000/ms-excel.png" width="40px" alt="Excel"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-pandas-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="40px" alt="pandas"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-numpy-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="40px" alt="NumPy"/>
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40px" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60px" alt="Seaborn"/>
-  <img src="https://img.icons8.com/color/100/000000/canva.png" width="40px" alt="Canva"/>
-  <img src="https://img.icons8.com/color/100/000000/figma--v1.png" width="40px" alt="Figma"/>
-  <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="40px" alt="PowerPoint"/>
-  <img src="https://img.icons8.com/color/100/000000/html-5--v1.png" width="40px" alt="HTML"/>
-  <img src="https://img.icons8.com/color/100/000000/css3.png" width="40px" alt="CSS"/>
+  <!-- SQL -->
+  <img src="https://img.icons8.com/color/96/sql.png" width="40" alt="SQL"/>
+  
+  <!-- MySQL -->
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="40" alt="MySQL"/>
+  
+  <!-- MS SQL Server (Reliable icon) -->
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="40" alt="MS SQL Server"/>
+
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/96/python.png" width="40" alt="Python"/>
+
+  <!-- pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="pandas"/>
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/>
+
+  <!-- Seaborn (no official icon, reusing Python icon) -->
+  <img src="https://img.icons8.com/color/96/python.png" width="40" alt="Seaborn"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="40" alt="Power BI"/>
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="40" alt="Excel"/>
 </p>
 
 
