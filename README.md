@@ -22,35 +22,21 @@
 ## 🚀 Tools & Technologies
 
 <p align="center">
-  <!-- SQL -->
-  <img src="https://img.icons8.com/color/96/sql.png" width="40" alt="SQL"/>
-  
-  <!-- MySQL -->
-  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="40" alt="MySQL"/>
-  
-  <!-- MS SQL Server (Reliable icon) -->
-  <img src="[https://img.icons8.com/color/96/microsoft-sql-server.png](https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg)" width="40" alt="MS SQL Server"/>
-
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/96/python.png" width="40" alt="Python"/>
-
-  <!-- pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="pandas"/>
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/>
-
-  <!-- Seaborn (no official icon, reusing Python icon) -->
-  <img src="https://img.icons8.com/color/96/python.png" width="40" alt="Seaborn"/>
-
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="40" alt="Power BI"/>
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="40" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 
