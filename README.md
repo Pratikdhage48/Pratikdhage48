@@ -22,21 +22,21 @@
 ## 🚀 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=flat-square&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.icons8.com/color/100/000000/sql.png" width="40px" alt="SQL"/>
+  <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" width="40px" alt="MySQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-microsoft-sql-server-a-relational-database-management-system-logo-color-tal-revivo.png" width="40px" alt="MS SQL Server"/>
+  <img src="https://img.icons8.com/color/100/000000/python--v1.png" width="40px" alt="Python"/>
+  <img src="https://img.icons8.com/color/100/000000/power-bi.png" width="40px" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/100/000000/ms-excel.png" width="40px" alt="Excel"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-pandas-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="40px" alt="pandas"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-numpy-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="40px" alt="NumPy"/>
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40px" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60px" alt="Seaborn"/>
+  <img src="https://img.icons8.com/color/100/000000/canva.png" width="40px" alt="Canva"/>
+  <img src="https://img.icons8.com/color/100/000000/figma--v1.png" width="40px" alt="Figma"/>
+  <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="40px" alt="PowerPoint"/>
+  <img src="https://img.icons8.com/color/100/000000/html-5--v1.png" width="40px" alt="HTML"/>
+  <img src="https://img.icons8.com/color/100/000000/css3.png" width="40px" alt="CSS"/>
 </p>
 
 
