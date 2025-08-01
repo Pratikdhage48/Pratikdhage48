@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <b>Data Analyst | SQL • Python • Power BI • Excel</b><br/>
+  <b>Business Intelligence & Data Analyst | SQL • Python • Power BI • Excel</b><br/>
   Turning data into decisions through insights and visuals.
 </p>
 
