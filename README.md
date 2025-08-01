@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-🎓 I am a passionate Data Analyst with a strong foundation in extracting, transforming, analyzing, and visualizing data to solve real-world problems.
+🎓 I am a passionate Business Intelligence & Data Analyst with a strong foundation in extracting, transforming, analyzing, and visualizing data to solve real-world problems.
 
 🔍 I love working with datasets, uncovering trends, and turning raw numbers into clear, actionable insights.
 
